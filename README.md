@@ -3,8 +3,8 @@ This code shows the simplest thing you can do with an Arduino to see physical ou
 
 ## Hardware Required
 Arduino Board
-LED  
-220 ohm resistor (**optional**)  
+LED (**Any color**)  
+220 ohm resistor (**Optional**)  
   
 ## Software Required
 [Arduino IDE](https://www.arduino.cc/en/software)
