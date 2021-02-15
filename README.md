@@ -1,2 +1,10 @@
-# Blink-Led-1-
-Blink Led is a simple Arduino project.
+# Blink-Led-1
+This code shows the simplest thing you can do with an Arduino to see physical output: it blinks the on-board LED.
+
+Hardware Required
+Arduino Board
+optional
+
+LED
+
+220 ohm resistor
