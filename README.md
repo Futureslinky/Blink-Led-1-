@@ -10,19 +10,4 @@ LED (**Any color**)
 [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Tutorial
-![alt text](https://www.arduino.cc/en/software)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Schematic](https://media.discordapp.net/attachments/798000763053277261/811022144887980062/unknown.png?width=393&height=394)
