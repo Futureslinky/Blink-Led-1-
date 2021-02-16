@@ -16,4 +16,4 @@ You want to set up everything like that, after that open **code.ino**.
 Upload the code and you should see your led light blinking.
 
 ## Help
-If you still need help you can join my discord server [here](discord.gg/gPKrM7NF6t)
+If you still need help you can join my discord server [here](https://discord.gg/gPKrM7NF6t)
