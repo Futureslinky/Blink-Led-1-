@@ -11,3 +11,9 @@ LED (**Any color**)
 
 ## Tutorial
 ![Schematic](https://media.discordapp.net/attachments/798000763053277261/811022144887980062/unknown.png?width=393&height=394)
+
+You want to set up everything like that, after that open **code.ino**.
+Upload the code and you should see your led light blinking.
+
+## Help
+If you still need help you can join my discord server [here](discord.gg/gPKrM7NF6t)
